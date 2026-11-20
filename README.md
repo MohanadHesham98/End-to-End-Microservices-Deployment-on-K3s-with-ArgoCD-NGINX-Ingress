@@ -1110,6 +1110,7 @@ Expected output:
 NAME         SYNC STATUS   HEALTH STATUS
 smallsteps   Synced        Healthy
 ```
+<img width="1256" height="193" alt="image" src="https://github.com/user-attachments/assets/d9476352-e157-496a-8c43-1393b647d032" />
 
 ### 9.5 Auto-Sync, Self-Healing & Drift Detection in Action
 

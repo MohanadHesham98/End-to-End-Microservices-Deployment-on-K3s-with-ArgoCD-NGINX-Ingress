@@ -1111,6 +1111,10 @@ NAME         SYNC STATUS   HEALTH STATUS
 smallsteps   Synced        Healthy
 ```
 <img width="1256" height="193" alt="image" src="https://github.com/user-attachments/assets/d9476352-e157-496a-8c43-1393b647d032" />
+<img width="1419" height="191" alt="image" src="https://github.com/user-attachments/assets/c632f28f-94bc-431c-8c10-aceea0a01d4c" />
+<img width="1284" height="766" alt="image" src="https://github.com/user-attachments/assets/48da4ed9-ec91-412f-88b9-01735fe70f04" />
+<img width="1834" height="788" alt="image" src="https://github.com/user-attachments/assets/0497f11b-6741-4980-b298-33131ac95307" />
+<img width="1840" height="770" alt="image" src="https://github.com/user-attachments/assets/2a522512-9ae0-47a9-a485-86de954a8317" />
 
 ### 9.5 Auto-Sync, Self-Healing & Drift Detection in Action
 
